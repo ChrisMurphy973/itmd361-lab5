@@ -37,4 +37,6 @@ table{
     border-bottom: 1% rgb(0, 0, 0) solid;
     color:rgb(240, 195, 113);
     line-height: 1em;
+    text-align: center;
+	padding: 10px 10px 10px 10px;
   }
