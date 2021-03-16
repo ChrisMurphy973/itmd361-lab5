@@ -17,6 +17,7 @@ header{
 }
 table{
     background-color:rgb(240, 195, 113);
+    color:rgb(0, 0, 0);
     font-size: 1.5em;
     margin: 100px auto;
     padding: 20px;
